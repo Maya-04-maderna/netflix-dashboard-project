@@ -43,3 +43,22 @@ netflix_dashboard_project/
 Public Netflix dataset (from Kaggle or similar).
 
 ---
+## 📊 Visualizations
+
+Below is the Tableau dashboard created from the cleaned Netflix dataset. It reveals key trends in content production, genre distribution, and viewer accessibility.
+
+### 🖼️ Netflix Content Dashboard
+
+<img src="plots/netflix_dashboard.png" alt="Netflix Dashboard" width="700"/>
+
+This dashboard provides the following insights:
+
+- 📅 **Content Added Over Time**: A bar chart or timeline showing the number of shows/movies added each year, peaking around 2018.
+- 🎭 **Genre Distribution**: A pie or bar chart showing the most common genres. Dramas, Comedies, and Documentaries are most frequent.
+- 🌍 **Top Producing Countries**: Identifies which countries contribute most content to Netflix, with the United States leading.
+- 🕒 **Content Duration**: A histogram showing distribution of movie durations (most fall under 100 minutes).
+- 📈 **Type Breakdown**: A split of content by type (Movies vs TV Shows) to understand platform focus.
+
+> This visualization helps content analysts, marketers, and developers understand Netflix’s global content strategies and genre focus.
+
+---
