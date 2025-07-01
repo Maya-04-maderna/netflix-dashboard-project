@@ -31,9 +31,9 @@ netflix_dashboard_project/
 
 ## 📌 How to Use
 
-1. View the Jupyter Notebook in `/notebooks/clean.ipynb` for data cleaning.
+1. View the Jupyter Notebook in `clean.ipynb` for data cleaning.
 2. Load `netflix_cleaned.csv` in Tableau or Excel to explore.
-3. See the dashboard screenshot in `/plots/netflix_dashboard.png`.
+3. See the dashboard screenshot in `Netflix_dashboard.png`.
 
 ## 🗃️ Data Source
 
