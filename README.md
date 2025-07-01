@@ -49,7 +49,7 @@ Below is the Tableau dashboard created from the cleaned Netflix dataset. It reve
 
 ### 🖼️ Netflix Content Dashboard
 
-<img src="plots/netflix_dashboard.png" alt="Netflix Dashboard" width="700"/>
+<img src="plots/Netflix_dashboard.png" alt="Netflix Dashboard" width="700"/>
 
 This dashboard provides the following insights:
 
