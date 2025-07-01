@@ -7,15 +7,12 @@ This project analyzes the Netflix content dataset and provides insights using Ta
 
 ```
 netflix_dashboard_project/
-│
-├── README.md                       ← This file
-├── netflix_cleaned.csv            ← Cleaned dataset used for Tableau and analysis
-├── raw_data/
-│   └── netflix1.csv               ← Original unprocessed dataset
-├── notebooks/
-│   └── clean.ipynb                ← Jupyter notebook with cleaning steps
-├── plots/
-│   └── netflix_dashboard.png      ← Screenshot of the final Tableau dashboard
+├── netflix_dashboard.png          ← Screenshot of the final Tableau dashboard
+├── README.md                      ← This file
+├──clean.ipynb                     ← Jupyter notebook with cleaning steps
+|── netflix1.csv                   ← Original unprocessed dataset   
+├── netflix_cleaned.csv            ← Cleaned dataset used for Tableau and analysis            
+    
 ```
 
 ## 🔧 Tools Used
